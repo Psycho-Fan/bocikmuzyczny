@@ -1,0 +1,4 @@
+discord_token=MTIwNjAzNTQxODc2ODc0MDM3Mg.GxdMu5.NoPESWWeXwrqjk4zOTsDiuJef2Uzm48Hfv6pRM
+
+
+discord_token=MTIwNjAyOTgzMDgzMTg3NDA0OA.GW6sda.y2jEkbf5H8Gk-wbX6GaNO84qoNqysTjMFmqymE
